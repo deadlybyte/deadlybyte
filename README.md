@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,svg,react,angular,bootstrap,git,nodejs,cs,dotnet,azure,vscode)](https://skillicons.dev)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deadlybyte&show_icons=true&theme=radical" />
 
 <!--
